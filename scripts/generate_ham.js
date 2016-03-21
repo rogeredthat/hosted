@@ -12,3 +12,4 @@ function generate_back()
 {
   toggleMenu.classList.add('back');
 }
+generate_ham();

@@ -67,3 +67,7 @@
   left:20px;
   top:20px;
 }
+.ham,.cross
+{
+    z-index: +100 !important;
+}
